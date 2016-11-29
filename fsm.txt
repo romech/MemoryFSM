@@ -1,0 +1,19 @@
+0 3
+0 Expected x
+1 Expected y
+2 Expected z
+3 Unexpected symbol
+-
+0e0 1e
+0eZ 2Z
+0x0 01
+0x1 02
+0x2 002
+0xZ 01Z
+1eZ 2Z
+1y1 1e
+1y2 11
+2eZ 3Z
+2z1 22
+2z2 2e
+2zZ 21Z
